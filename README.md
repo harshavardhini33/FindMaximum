@@ -51,9 +51,6 @@ def max_marks(marks):
     return(large)
     max_marks([88, 67, 77, 93, 95, 11, 67, 89, 56, 89])
 ```
-## Sample Input and Output
-![output](https://user-images.githubusercontent.com/93427208/150624512-ea736faf-ce6a-4a41-a1a6-ad532635f0c4.png)
-
 
 ## Output:
 ![doc](https://user-images.githubusercontent.com/93427208/150624502-0a39d281-e655-4f2a-bc8c-cfa104de1a76.png)
